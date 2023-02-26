@@ -11,3 +11,4 @@ VMware Player是VMware公司推出的一款簡易虛擬機軟體。 這款軟體
 
 ## Lab 1-2 安裝VMWare & Download Link
 
+![image](https://user-images.githubusercontent.com/100060507/221397397-c1ba58fa-a5b2-4dbe-b3bf-36c79950195c.png)
