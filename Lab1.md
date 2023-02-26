@@ -7,3 +7,7 @@
 ![1_ihHwUHn_MHS1g6pU24U5mw](https://user-images.githubusercontent.com/100060507/221393669-a42bbeaf-0dfd-4768-a9eb-dae0a3946919.png)
 
 ### 2. 你會如何介紹VMWare Player 或VirtualBox?
+VMware Player是VMware公司推出的一款簡易虛擬機軟體。 這款軟體是免費提供的,功能較VMwareWorkstation簡單,可以提供簡單的虛擬機功能。 用戶可以在VMware公司網站下載到免費版本的該軟體。 並且,VMwareWorkstation中也提供了該軟體。
+
+## Lab 1-2 安裝VMWare & Download Link
+
