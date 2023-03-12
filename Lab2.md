@@ -5,3 +5,4 @@
 ![image](https://user-images.githubusercontent.com/100060507/224527936-1aed0d02-6b95-4a48-ab34-a8167ed522bc.png)
 
 ### Lab 2-2 VMWare的相關設定介紹
+![image](https://user-images.githubusercontent.com/100060507/224528249-b8476a98-c435-4bf5-90cb-b5b23286167a.png)
