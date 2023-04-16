@@ -22,3 +22,7 @@
 ### **head & tail: 查看文件內容的”頭”或”尾”**
 
 ### **chmod:** **Linux chmod命令**
+### colab 應用
+![image](https://user-images.githubusercontent.com/100060507/232273827-69102e6b-c26c-4951-a6d1-9fddc8ea7826.png)
+
+## Lab 4-2 BASH Shell介紹與實戰
