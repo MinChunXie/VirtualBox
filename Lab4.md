@@ -26,3 +26,5 @@
 ![image](https://user-images.githubusercontent.com/100060507/232273827-69102e6b-c26c-4951-a6d1-9fddc8ea7826.png)
 
 ## Lab 4-2 BASH Shell介紹與實戰
+
+![image](https://user-images.githubusercontent.com/100060507/232277093-a98fce14-3c9a-47ab-9ca5-bc7a3232b0cf.png)
