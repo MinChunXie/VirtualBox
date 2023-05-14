@@ -33,9 +33,9 @@
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/a99d562e-669b-4fe6-bc18-a598ab5e64f2)
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/330f3d98-a4b6-43a4-8d39-54d0d28e97b0)
 
-**使用While Loop**
+### 使用While Loop **
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/548ca72c-d75f-4fb1-bcf2-ecdbc38b5f60)
-**For Loop**
+### For Loop
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/6eb1503d-e78e-4f83-917d-150f2c221d1a)
 
 
