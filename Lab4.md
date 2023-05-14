@@ -37,6 +37,12 @@
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/548ca72c-d75f-4fb1-bcf2-ecdbc38b5f60)
 ### For Loop
 ![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/6eb1503d-e78e-4f83-917d-150f2c221d1a)
+![image](https://github.com/MinChunXie/VirtualBox/assets/100060507/88049184-ba83-42fc-afe8-ed1ad9450ceb)
+
+
+99乘法
+
+## Lab 4-3 綜合練習 for Shell Programing!
 
 
 
